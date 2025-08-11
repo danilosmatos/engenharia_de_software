@@ -1,2 +1,2 @@
 # engenharia_de_software
-me1
+Aqui estarão os exercicios da primeira ME
